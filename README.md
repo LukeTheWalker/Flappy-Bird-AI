@@ -1,5 +1,3 @@
 # Flappy-Bird-AI
-An artificial intelligence playing flappy bird
-Neural Network implemented with ml5.js
-Game displayed with p5.js
-Code written with love
+
+An artificial intelligence playing flappy bird. Written with ml5.js & p5.js
