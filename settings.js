@@ -2,7 +2,7 @@
 const settings = {
   width: 800,            //width of the canvas
   height: 360,           //height of the canvas
-  startingPoint: 360,    //the x coordinate of the very first pipe that will spawn
+  startingPoint: 180,    //the x coordinate of the very first pipe that will spawn
   birdPosition: 80,      //x coordinate of birds
   birdSize: 25,          //the size of each bird
   gravity: 0.8,          //the gravity of the world
