@@ -17,6 +17,7 @@ Here below is a short video of a sample training
 
 ## Training Options
 Many variables may be changed in order to infuence the enviroment in which the AI will train.
+
 All of them may be easily accesed through in the ```settings.js``` file, below the most importantant:
 
 -```birdSize``` influencing the size of bird, bigger birds will take more time to adapt since they will easily hit the pipes
